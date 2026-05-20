@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(30, 30, 30);
+}
+
+header{
+    color: red;
+    text-align: center;
+}
+
+.main{
+    color: #f1f1f1;
+    line-height: 40px;
+}
+
+.second{
+    color: #bdbdbd;
+    line-height: 40px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    color: red;
+}
+
+a{
+    color: #00d9ff;
+}

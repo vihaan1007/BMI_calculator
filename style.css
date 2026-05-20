@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(30, 30, 30);
+}
+
+p{
+    color: violet;
+}
+
+#Answer{
+    color: #32d74b;
+    font-weight: bold;
+}
+
+header{
+    color: #32d74b;
+    text-align: center;
+}
+
+#Category{
+    color: #66e2a3;
+    font-weight: bold;
+}
+
+footer{
+    position: fixed;
+    bottom: 40px;
+}
+
+a{
+    color: #00d9ff;
+}
+
+#Atext{
+    color: #4cc9f0;
+}
+
+#Ctext{
+    color: #7bc9a8;
+}
+
+#b{
+    position: fixed;
+    bottom: 0px;
+    height: 20px;
+    width: 100%;
+}
